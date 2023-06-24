@@ -1,4 +1,4 @@
-# bleskomat-box
+# ATM-box
 The Bleskomat's case design and development process will be here.
 
 ## Development process
@@ -16,7 +16,7 @@ Different colors of the lines can have different meaning for the laser cutter, e
 
 The design has to be placed on a sheet with the size of the ply wood that we use (Make sure that the fortmat is under the maximal size of the laser cutter of the workshop you are going to manufacture it in).
 
-The file `parts.svg` contains a library of the additional holes for devices used in bleskomat. Place the holes on the rendered design in the correct possition and group them with the underlaying units for an easy manipulation. Then move or copy all required parts in the file of the correct size of the ply wood.
+The file `parts.svg` contains a library of the additional holes for devices used in ATM. Place the holes on the rendered design in the correct possition and group them with the underlaying units for an easy manipulation. Then move or copy all required parts in the file of the correct size of the ply wood.
 
 Finally, convert the file and save it with the correct version number. The workshops often prefer the design in DXF of PDF file.
 
